@@ -14,8 +14,10 @@ I'm Mathias Skogen Raa, a student, developer and hobby designer from Norway.
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-000?&logo=StyledComponents)
-![SanityCMS](https://img.shields.io/badge/-SanityCMS-000?&logo=SanityCMS)
+![Sanity](https://img.shields.io/badge/-Sanity-000?&logo=Sanity)
+![Sanity](https://img.shields.io/badge/-Webflow-000?&logo=Webflow)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-000?&logo=AdobeIllustrator)
 ![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics)
 
 
