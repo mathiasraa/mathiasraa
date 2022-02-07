@@ -2,6 +2,10 @@
 
 I'm Mathias Skogen Raa, a student, developer and hobby designer from Norway.
 
+
+[<img src="https://user-images.githubusercontent.com/18050179/152839783-6bcb8f24-8d2f-4783-9c1b-bd1963aa0dd7.png" alt="drawing" width="300"/>](https://github.com/mathiasraa/mathiasraa/blob/main/Portfolio_Short%20-%20Mathias%20Raa.pdf)
+
+
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
