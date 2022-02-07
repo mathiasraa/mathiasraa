@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+I'm Mathias Skogen Raa, a student, developer and hobby designer from Norway.
+
+#### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+#### Tools & Technologies
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-000?&logo=StyledComponents)
+![SanityCMS](https://img.shields.io/badge/-SanityCMS-000?&logo=SanityCMS)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathiasraa&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **mathiasraa/mathiasraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
