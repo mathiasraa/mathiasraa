@@ -20,9 +20,6 @@ I'm Mathias Skogen Raa, a student, developer and hobby designer from Norway.
 ![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-000?&logo=AdobeIllustrator)
 ![GoogleAnalytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathiasraa&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <!--
 **mathiasraa/mathiasraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
