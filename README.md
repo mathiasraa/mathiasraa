@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mathias Skogen Raa, a student, developer and hobby designer from Norway.
+I'm Mathias, a student, developer and hobby designer from Norway.
 
 <!--
 **mathiasraa/mathiasraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
