@@ -3,10 +3,6 @@
 import { Variants, motion } from "framer-motion";
 import { type PropsWithChildren } from "react";
 
-export const AnimatedBlocks: React.FC<PropsWithChildren> = ({ children }) => {
-  return children;
-};
-
 export const AnimatedBlock: React.FC<
   PropsWithChildren & { index: number; className?: string }
 > = ({ children, className, index }) => {

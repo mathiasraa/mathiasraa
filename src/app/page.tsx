@@ -1,6 +1,5 @@
 import {
   AnimatedBlock,
-  AnimatedBlocks,
   Cursor,
   EducationBlock,
   ExpertiseBlock,
@@ -13,23 +12,21 @@ export default function Home() {
     <div className="min-h-screen p-5 sm:p-20 pb-20 font-[family-name:var(--font-geist-sans)] selection:bg-[#73AC4Caa] bg-[#ededed]">
       <Cursor />
       <main className="flex flex-col">
-        <AnimatedBlocks>
-          <AnimatedBlock index={0}>
-            <TitleBlock />
-          </AnimatedBlock>
-          <AnimatedBlock index={1}>
-            <ExpertiseBlock />
-          </AnimatedBlock>
-          <AnimatedBlock index={2}>
-            <EducationBlock />
-          </AnimatedBlock>
-          <AnimatedBlock
-            index={3}
-            className="flex items-end fixed sm:relative h-full sm:h-auto top-0"
-          >
-            <LinksBlock />
-          </AnimatedBlock>
-        </AnimatedBlocks>
+        <AnimatedBlock index={0}>
+          <TitleBlock />
+        </AnimatedBlock>
+        <AnimatedBlock index={1}>
+          <ExpertiseBlock />
+        </AnimatedBlock>
+        <AnimatedBlock index={2}>
+          <EducationBlock />
+        </AnimatedBlock>
+        <AnimatedBlock
+          index={3}
+          className="flex items-end fixed sm:relative h-full sm:h-auto top-0"
+        >
+          <LinksBlock />
+        </AnimatedBlock>
       </main>
     </div>
   );
