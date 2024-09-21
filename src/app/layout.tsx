@@ -21,8 +21,8 @@ const serif = Source_Serif_4({
 });
 
 export const metadata: Metadata = {
-  title: "Mathias Raa",
-  description: "Personal website of Mathias Raa",
+  title: "Mathias Skogen Raa",
+  description: "Personal website of Mathias Skogen Raa",
   authors: [{ name: "Mathias Skogen Raa" }],
 };
 
