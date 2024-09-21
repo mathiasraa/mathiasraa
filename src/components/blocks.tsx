@@ -16,20 +16,9 @@ export const TitleBlock: React.FC = () => (
 export const ExpertiseBlock: React.FC = () => (
   <div className="flex flex-col sm:flex-row sm:space-x-2 mt-3 sm:mt-0">
     {AREAS_OF_EXPERTISE.map((area, i) => (
-      <div
-        className={cn(`flex items-center`, i !== 0 && "sm:!ml-3")}
-        style={{ marginLeft: `${i * 24}px` }}
-        key={area}
-      >
-        <h2
-          className={
-            "text-lg sm:text-xl text-gray-400 mr-3 " +
-            (i === 0 ? "sm:hidden" : "")
-          }
-        >
-          &rarr;
-        </h2>
+      <div className={cn("flex items-center")} key={area}>
         <h2 className="font-serif tracking-tight text-2xl sm:text-2xl font-medium text-gray-600">
+          {i !== 0 && <span className="text-gray-300 mr-2 ">\</span>}
           {area}
         </h2>
       </div>
