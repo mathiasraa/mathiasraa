@@ -4,7 +4,6 @@ const AREAS_OF_EXPERTISE = ["Data Science", "Design", "Software"];
 const LINKS = [
   { name: "GitHub", url: "https://github.com/mathiasraa/" },
   { name: "LinkedIn", url: "https://www.linkedin.com/in/mathiasraa/" },
-  { name: "Email", url: "mailto:mskogenraa@gmail.com" },
 ];
 
 export const TitleBlock: React.FC = () => (
